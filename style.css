@@ -1,0 +1,51 @@
+body{
+  background-color: #292929;
+  color:  white;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.links a{
+  color: #E34248;
+  color: white;
+}
+
+.content{
+  margin-top: 300px;
+
+}
+
+p {
+    font-size: 3em;
+}
+
+.hl{
+  color: #EC454B;
+}
+
+.linkedin a:hover {
+  color: #1884BC;
+  text-decoration: none;
+}
+.facebook a:hover {
+  color: #3D5B99;
+  text-decoration: none;
+}
+
+.quora a:hover {
+  color: #B92B27;
+  text-decoration: none;
+}
+.github a:hover {
+  color: #F5F5F5;
+  text-decoration: none;
+}
+
+
+footer{
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:100px;
+   width:100%;
+
+}
