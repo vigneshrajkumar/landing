@@ -31,12 +31,13 @@ p {
   text-decoration: none;
 }
 
-.quora a:hover {
-  color: #B92B27;
+.hackerrank a:hover {
+  color: #2BBC61;
   text-decoration: none;
 }
-.github a:hover {
-  color: #F5F5F5;
+
+.quora a:hover {
+  color: #B92B27;
   text-decoration: none;
 }
 
