@@ -11,7 +11,6 @@ body{
 
 .content{
   margin-top: 300px;
-
 }
 
 p {
@@ -26,21 +25,15 @@ p {
   color: #1884BC;
   text-decoration: none;
 }
-.facebook a:hover {
-  color: #3D5B99;
+.github a:hover {
+  color: #000000;
   text-decoration: none;
 }
 
-.hackerrank a:hover {
+.medium a:hover {
   color: #2BBC61;
   text-decoration: none;
 }
-
-.quora a:hover {
-  color: #B92B27;
-  text-decoration: none;
-}
-
 
 footer{
    position:fixed;
@@ -48,5 +41,4 @@ footer{
    bottom:0px;
    height:100px;
    width:100%;
-
 }
