@@ -25,9 +25,20 @@ p {
   color: #1884BC;
   text-decoration: none;
 }
+
 .github a:hover {
   color: #000000;
   text-decoration: none;
+}
+
+.strava a:hover {
+  color: #000000;
+  text-decoration: #FC5200;
+}
+
+.goodreads a:hover {
+  color: #000000;
+  text-decoration: #F4F1EA;
 }
 
 .medium a:hover {
